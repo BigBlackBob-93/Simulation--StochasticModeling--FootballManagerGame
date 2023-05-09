@@ -128,6 +128,6 @@ def set_table(**kwargs) -> None:
     h_headers: list[str] = kwargs.get('h_headers') if kwargs.get('h_headers') is not None else []
 
     table.setWindowTitle(kwargs.get('title'))
-    table.setGeometry(350, 300, WIDTH, HEIGHT)
+    table.setGeometry(650, 300, WIDTH, HEIGHT)
     table.setColumnCount(columns)
     table.setHorizontalHeaderLabels(h_headers)

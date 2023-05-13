@@ -1,4 +1,5 @@
 # Simulation--StochasticModeling--FootballManagerGame
 GUI : PyQT/Имитационное моделирование
 
-![Screenshot_2](https://github.com/BigBlackBob-93/Simulation--StochasticModeling--FootballManagerGame/assets/101857203/1315f9f2-fe2f-4f08-832b-9ff449a5a61c)
+
+![Screenshot_3](https://github.com/BigBlackBob-93/Simulation--StochasticModeling--FootballManagerGame/assets/101857203/a00342b6-97d1-4ccc-9575-bd3f993d4bee)
